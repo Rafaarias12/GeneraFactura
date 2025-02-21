@@ -1,0 +1,51 @@
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+      <div class="card">
+        <div class="card-header">
+          <h2>Facturas</h2>
+        </div>
+        <div class="card-body">
+          <div class="row">
+            <div class="col-md-6">
+              <button (click)="openModal(0)" class="btn btn-success"><i class="bi bi-plus"></i></button>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-12">
+              <table class="table table-striped">
+                <thead>
+                  <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Cliente</th>
+                    <th scope="col">Fecha</th>
+                    <th scope="col">Total</th>
+                    <th scope="col">Acciones</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  @for (factura of facturas; track factura.id) {
+                    <tr>
+                      <td>{{ factura.id }}</td>
+                      <td>{{ factura.cliente }}</td>
+                      <td>{{ factura.fecha }}</td>
+                      <td>{{ factura.total}}</td>
+                      <td>
+                        <button class="btn btn-primary btn-sm"><i class="bi bi-trash3"></i></button>
+                        <button class="btn btn-danger btn-sm ms-1" (click)="openModal(factura.id ?? 0)"><i class="bi bi-pencil"></i></button>
+                      </td>
+                    </tr>
+                  } @empty {
+                    <tr>
+                      <td colspan="5" class="text-center">No hay facturas registradas</td>
+                    </tr>
+                  }
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

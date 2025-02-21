@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Documents\\GitHub\\GeneraFactura\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{527DA21C-AA65-4BDA-8F4A-D5119B74B8FB}|Model\\Model.csproj|c:\\users\\dell\\documents\\github\\generafactura\\backend\\model\\services\\facturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{527DA21C-AA65-4BDA-8F4A-D5119B74B8FB}|Model\\Model.csproj|solutionrelative:model\\services\\facturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CFE5BBB-8BA3-48AF-B733-AE3E89419B02}|API\\API.csproj|c:\\users\\dell\\documents\\github\\generafactura\\backend\\api\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CFE5BBB-8BA3-48AF-B733-AE3E89419B02}|API\\API.csproj|solutionrelative:api\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{527DA21C-AA65-4BDA-8F4A-D5119B74B8FB}|Model\\Model.csproj|c:\\users\\dell\\documents\\github\\generafactura\\backend\\model\\services\\ifacturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{527DA21C-AA65-4BDA-8F4A-D5119B74B8FB}|Model\\Model.csproj|solutionrelative:model\\services\\ifacturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CFE5BBB-8BA3-48AF-B733-AE3E89419B02}|API\\API.csproj|c:\\users\\dell\\documents\\github\\generafactura\\backend\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0CFE5BBB-8BA3-48AF-B733-AE3E89419B02}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11260CE-F29F-4F09-B044-B19594F797CE}|Data\\Data.csproj|c:\\users\\dell\\documents\\github\\generafactura\\backend\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F11260CE-F29F-4F09-B044-B19594F797CE}|Data\\Data.csproj|solutionrelative:data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11260CE-F29F-4F09-B044-B19594F797CE}|Data\\Data.csproj|c:\\users\\dell\\documents\\github\\generafactura\\backend\\data\\entidades\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F11260CE-F29F-4F09-B044-B19594F797CE}|Data\\Data.csproj|solutionrelative:data\\entidades\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IFacturaService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\GeneraFactura\\Backend\\Model\\Services\\IFacturaService.cs",
+              "RelativeDocumentMoniker": "Model\\Services\\IFacturaService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\GeneraFactura\\Backend\\Model\\Services\\IFacturaService.cs",
+              "RelativeToolTip": "Model\\Services\\IFacturaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T21:36:38.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\GeneraFactura\\Backend\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\GeneraFactura\\Backend\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-21T20:49:48.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\GeneraFactura\\Backend\\Data\\Context.cs",
+              "RelativeDocumentMoniker": "Data\\Context.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\GeneraFactura\\Backend\\Data\\Context.cs",
+              "RelativeToolTip": "Data\\Context.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T20:38:42.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\GeneraFactura\\Backend\\Data\\Entidades\\Factura.cs",
+              "RelativeDocumentMoniker": "Data\\Entidades\\Factura.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\GeneraFactura\\Backend\\Data\\Entidades\\Factura.cs",
+              "RelativeToolTip": "Data\\Entidades\\Factura.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T20:37:25.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FacturaService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\GeneraFactura\\Backend\\Model\\Services\\FacturaService.cs",
+              "RelativeDocumentMoniker": "Model\\Services\\FacturaService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\GeneraFactura\\Backend\\Model\\Services\\FacturaService.cs",
+              "RelativeToolTip": "Model\\Services\\FacturaService.cs",
+              "ViewState": "AQIAAKYAAAAAAAAAAAAQwLMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T20:31:41.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FacturaController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\GeneraFactura\\Backend\\API\\Controllers\\FacturaController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\FacturaController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\GeneraFactura\\Backend\\API\\Controllers\\FacturaController.cs",
+              "RelativeToolTip": "API\\Controllers\\FacturaController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAkwBcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T20:30:58.546Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
