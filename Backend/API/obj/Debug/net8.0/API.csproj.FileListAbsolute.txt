@@ -113,3 +113,8 @@ C:\Users\Dell\Documents\GitHub\GeneraFactura\Backend\API\bin\Debug\net8.0\ru\Mic
 C:\Users\Dell\Documents\GitHub\GeneraFactura\Backend\API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Dell\Documents\GitHub\GeneraFactura\Backend\API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Dell\Documents\GitHub\GeneraFactura\Backend\API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\Documents\GitHub\GeneraFactura\Backend\API\bin\Debug\net8.0\Compilado\web.config
+C:\Users\Dell\Documents\GitHub\GeneraFactura\Backend\API\bin\Debug\net8.0\Compilado\API.deps.json
+C:\Users\Dell\Documents\GitHub\GeneraFactura\Backend\API\bin\Debug\net8.0\Compilado\API.runtimeconfig.json
+C:\Users\Dell\Documents\GitHub\GeneraFactura\Backend\API\bin\Debug\net8.0\Compilado\appsettings.Development.json
+C:\Users\Dell\Documents\GitHub\GeneraFactura\Backend\API\bin\Debug\net8.0\Compilado\appsettings.json

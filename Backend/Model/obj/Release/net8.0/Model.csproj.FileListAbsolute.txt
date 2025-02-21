@@ -1,0 +1,16 @@
+C:\Users\Dell\Documents\GitHub\GeneraFactura\Backend\Model\bin\Release\net8.0\Model.deps.json
+C:\Users\Dell\Documents\GitHub\GeneraFactura\Backend\Model\bin\Release\net8.0\Model.dll
+C:\Users\Dell\Documents\GitHub\GeneraFactura\Backend\Model\bin\Release\net8.0\Model.pdb
+C:\Users\Dell\Documents\GitHub\GeneraFactura\Backend\Model\bin\Release\net8.0\Data.dll
+C:\Users\Dell\Documents\GitHub\GeneraFactura\Backend\Model\bin\Release\net8.0\Data.pdb
+C:\Users\Dell\Documents\GitHub\GeneraFactura\Backend\Model\obj\Release\net8.0\Model.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\GeneraFactura\Backend\Model\obj\Release\net8.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\GitHub\GeneraFactura\Backend\Model\obj\Release\net8.0\Model.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\GitHub\GeneraFactura\Backend\Model\obj\Release\net8.0\Model.AssemblyInfo.cs
+C:\Users\Dell\Documents\GitHub\GeneraFactura\Backend\Model\obj\Release\net8.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\GitHub\GeneraFactura\Backend\Model\obj\Release\net8.0\Model.sourcelink.json
+C:\Users\Dell\Documents\GitHub\GeneraFactura\Backend\Model\obj\Release\net8.0\Model.csproj.Up2Date
+C:\Users\Dell\Documents\GitHub\GeneraFactura\Backend\Model\obj\Release\net8.0\Model.dll
+C:\Users\Dell\Documents\GitHub\GeneraFactura\Backend\Model\obj\Release\net8.0\refint\Model.dll
+C:\Users\Dell\Documents\GitHub\GeneraFactura\Backend\Model\obj\Release\net8.0\Model.pdb
+C:\Users\Dell\Documents\GitHub\GeneraFactura\Backend\Model\obj\Release\net8.0\ref\Model.dll
