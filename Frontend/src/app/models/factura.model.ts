@@ -3,7 +3,7 @@ import { detalles } from "./detalles.model";
 export interface factura {
   id?: number;
   cliente: string;
-  fecha: Date;
+  fecha: string;
   total: number;
   detalleFacturas: detalles[];
 }

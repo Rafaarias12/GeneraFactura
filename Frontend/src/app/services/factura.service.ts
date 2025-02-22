@@ -25,14 +25,14 @@ export class FacturaService {
   }
 
   getFacturasId(id: number): Observable<factura>{
-    return this.http.get<factura>(`${this.apiUrl}factura` + id)
+    return this.http.get<factura>(`${this.apiUrl}factura/` + id)
   }
 
   putFactura(id: number, obj: factura): Observable<boolean>{
-    return this.http.put<boolean>(`${this.apiUrl}factura` + id, obj);
+    return this.http.put<boolean>(`${this.apiUrl}factura/` + id, obj);
   }
 
   deleteFactura(id:number): Observable<boolean>{
-    return this.http.delete<boolean>(`${this.apiUrl}factura`);
+    return this.http.delete<boolean>(`${this.apiUrl}factura/`+ id);
   }
 }

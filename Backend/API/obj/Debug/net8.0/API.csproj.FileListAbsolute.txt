@@ -31,7 +31,6 @@ C:\Users\Dell\Documents\GitHub\GeneraFactura\Backend\API\obj\Debug\net8.0\API.As
 C:\Users\Dell\Documents\GitHub\GeneraFactura\Backend\API\obj\Debug\net8.0\API.csproj.CoreCompileInputs.cache
 C:\Users\Dell\Documents\GitHub\GeneraFactura\Backend\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Dell\Documents\GitHub\GeneraFactura\Backend\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Dell\Documents\GitHub\GeneraFactura\Backend\API\obj\Debug\net8.0\API.sourcelink.json
 C:\Users\Dell\Documents\GitHub\GeneraFactura\Backend\API\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Dell\Documents\GitHub\GeneraFactura\Backend\API\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Dell\Documents\GitHub\GeneraFactura\Backend\API\obj\Debug\net8.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
@@ -118,3 +117,6 @@ C:\Users\Dell\Documents\GitHub\GeneraFactura\Backend\API\bin\Debug\net8.0\Compil
 C:\Users\Dell\Documents\GitHub\GeneraFactura\Backend\API\bin\Debug\net8.0\Compilado\API.runtimeconfig.json
 C:\Users\Dell\Documents\GitHub\GeneraFactura\Backend\API\bin\Debug\net8.0\Compilado\appsettings.Development.json
 C:\Users\Dell\Documents\GitHub\GeneraFactura\Backend\API\bin\Debug\net8.0\Compilado\appsettings.json
+C:\Users\Dell\Documents\GitHub\GeneraFactura\Backend\API\bin\Debug\net8.0\API.xml
+C:\Users\Dell\Documents\GitHub\GeneraFactura\Backend\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\Dell\Documents\GitHub\GeneraFactura\Backend\API\bin\Debug\net8.0\Microsoft.Extensions.PlatformAbstractions.dll

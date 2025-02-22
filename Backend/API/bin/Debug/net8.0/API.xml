@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>API</name>
+    </assembly>
+    <members>
+        <member name="T:API.Controllers.FacturaController">
+            <summary>
+            Controlador para facturas.
+            </summary>
+            
+        </member>
+        <member name="M:API.Controllers.FacturaController.GetFacturas">
+            <summary>
+            Obtiene todas las facturas.
+            </summary>
+            <returns>Una lista de facturas.</returns>
+        </member>
+        <member name="M:API.Controllers.FacturaController.GetFactura(System.Int32)">
+            <summary>
+            Retorna factura especifica
+            </summary>
+            <returns>Retorna factura especifica</returns>
+            <response code="200">Retorna factura especifica</response>
+        </member>
+        <member name="M:API.Controllers.FacturaController.CreateFactura(Model.Responses.FacturaResponse)">
+            <summary>
+            Crea factura
+            </summary>
+            <returns>Crea factura</returns>
+            <response code="200">Crea factura</response>
+        </member>
+        <member name="M:API.Controllers.FacturaController.UpdateFactura(Model.Responses.FacturaResponse,System.Int32)">
+            <summary>
+            Edita factura
+            </summary>
+            <returns>Edita factura</returns>
+            <response code="200">Edita factura</response>
+        </member>
+        <member name="M:API.Controllers.FacturaController.DeleteFactura(System.Int32)">
+            <summary>
+            Elimina factura
+            </summary>
+            <returns></returns>
+            <response code="200">Elimina factura</response>
+        </member>
+    </members>
+</doc>

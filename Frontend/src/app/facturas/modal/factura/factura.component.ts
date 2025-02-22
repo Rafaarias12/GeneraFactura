@@ -12,9 +12,9 @@ import { FacturaService } from '../../../services/factura.service';
   templateUrl: './factura.component.html',
   styleUrl: './factura.component.scss',
 })
-export class FacturaComponent implements OnChanges {
+export class FacturaComponent {
   @Input() factura?: factura;
-  @Input() facturaId: number = 0;
+  @Input() facturaId!: number;
   facturaForm: FormGroup;
 
   constructor(
@@ -30,8 +30,8 @@ export class FacturaComponent implements OnChanges {
     });
   }
 
-  ngOnChanges(changes: SimpleChanges) {
-    if (changes['facturaId'] && this.facturaId !== 0) {
+  ngOnInit() {
+    if (this.facturaId !== 0) {
       this.service.getFacturasId(this.facturaId).subscribe(
         x => {
           console.log('Factura cargada:', x);
@@ -135,6 +135,7 @@ export class FacturaComponent implements OnChanges {
         });
       }
       else{
+        console.log(facturaData.detalleFacturas);
         this.service.putFactura(this.facturaId, facturaData).subscribe({
           next: (response) => {
             console.log('Factura guardada:', response);

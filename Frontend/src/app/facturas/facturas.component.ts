@@ -21,22 +21,29 @@ export default class FacturasComponent {
   }
 
   ngOnInit(){
-    this.service.getFacturas().subscribe(
-      data =>{
-        console.log(data);
-        this.facturas = data;
-
-      }
-
-    );
-    console.log(this.facturas);
+    this.cargarFacturas(); // Cargar al inicio
   }
 
+  cargarFacturas(){
+    this.service.getFacturas().subscribe(
+      data =>{
+        this.facturas = data;
+      }
+    );
+  }
 
 
   openModal(id: number) {
     const modalRef = this.modalService.open(FacturaComponent, { size: 'lg' });
     modalRef.componentInstance.facturaId = id;
+  }
+
+  deleteFactura(id: number){
+    this.service.deleteFactura(id).subscribe(
+      x =>{
+        console.log(x);
+      }
+    )
   }
 
 }
